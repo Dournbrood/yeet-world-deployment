@@ -14,7 +14,8 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Yeet world deployment team (minus AJ) says: "Mando is daddy...?"</h1>
+      <h1>Yeet world deployment team (minus AJ) says: "Mando is daddy...?"</h1>\
+      <h1> I do not consent to being added in on this statement.</h1>
       <h2>
         Deployed with{' '}
         <a
