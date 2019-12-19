@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Yeet world deployment team (minus AJ) says: "Mando is daddy...?"</h1>
+      <h1>Random branch yeeteth and yoinketh the mando away...</h1>
       <h2>
         Deployed with{' '}
         <a
